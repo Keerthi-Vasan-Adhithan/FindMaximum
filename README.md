@@ -57,7 +57,7 @@ def max_marks(list1):
 
 ## Output:
 ![Screenshot (139)](https://user-images.githubusercontent.com/107488929/235335836-43478e43-0c5b-4599-8e63-703a0692c668.png)
-![Screenshot (140)](https://user-images.githubusercontent.com/107488929/235335912-365816f4-3164-4879-aa13-123aa0f603a4.png)
+![Screenshot (140)](https://user-images.githubusercontent.com/107488929/235335959-240e493e-0191-4355-a1fe-31e5f0dd1d0b.png)
 ![Screenshot (141)](https://user-images.githubusercontent.com/107488929/235335935-23710300-be36-4bb7-b2c7-d026cc6023c0.png)
 
 
